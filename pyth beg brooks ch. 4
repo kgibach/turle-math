@@ -1,0 +1,64 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOy5qBS8/gHn++NrroaIgRS",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/kgibach/turtle-math/blob/main/pyth%20beg%20brooks%20ch.%204\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 8,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "dP8ogv_aalGm",
+        "outputId": "f6879759-ff9f-4643-c25b-e57501dc3aab"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "9\n",
+            "95\n",
+            "15\n",
+            "20\n",
+            "I live on number 25, Jamestown street\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(4 + 5)\n",
+        "print(2+3+30+60)\n",
+        "print(20-5)\n",
+        "print(4*5)\n",
+        "street_number = 25\n",
+        "print('I live on number ' + str(street_number) + ', ' + 'Jamestown street')\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
